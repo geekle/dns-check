@@ -1,0 +1,27 @@
+Google:
+  primary: 8.8.8.8
+  secondary: 8.8.4.4
+OpenDNS:
+  primary: 208.67.222.222
+  secondary: 208.67.220.220
+Bigpond NSW:
+  primary: "61.9.194.49"
+  secondary: 61.9.195.193
+Bigpond Vic:
+  primary: 61.9.133.193
+  secondary: 61.9.134.49
+Bigpond QLD:
+  primary: 61.9.211.33
+  secondary: 61.9.211.1
+Bigpond Tas:
+  primary: 61.9.188.33
+  secondary: 61.9.134.49
+Bigpond ACT:
+  primary: 61.9.207.1
+  secondary: 61.9.195.193
+Bigpond SA,NT:
+  primary: 61.9.226.33
+  secondary: 61.9.194.49
+Bigpond WA:
+  primary: 61.9.242.33
+  secondary: 61.9.226.33
