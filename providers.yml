@@ -5,7 +5,7 @@ OpenDNS:
   primary: 208.67.222.222
   secondary: 208.67.220.220
 Bigpond NSW:
-  primary: "61.9.194.49"
+  primary: 61.9.194.49
   secondary: 61.9.195.193
 Bigpond Vic:
   primary: 61.9.133.193
